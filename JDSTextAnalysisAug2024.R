@@ -157,7 +157,7 @@ gpt4_dfm <- dfm(gpt4tokens)
 gpt4o_dfm <- dfm(gpt4otokens)
 docvars(gpt3_dfm, "Version") <- "GPT3.5"
 docvars(gpt4_dfm, "Version") <- "GPT4"
-docvars(gpt4o_dfm, "Version") <- "GPT4o"
+docvars(gpt4o_dfm, "Version") <- "GPT4o-mini"
 # Combine the DFM's 
 gptDFM <- rbind(gpt3_dfm, gpt4_dfm, gpt4o_dfm)
 # Use dfm_group to aggregate the features within each group.
@@ -176,11 +176,12 @@ topfeatures(gptDFM, 5, groups=Version)
 # 90           60           52           47           42 
 
 ## Plot a word frequency plot
-tstat_freq_gpt <- textstat_frequency(gptDFM, groups = Version,n = 50)
+library(quanteda.textstats)
+tstat_freq_gpt <- textstat_frequency(gptDFM, groups = Version,n = 20)
 ggplot(tstat_freq_gpt, aes(x = frequency, y = reorder(feature, frequency), color=group)) +
-  geom_point(aes(shape = group), size = 3) +
+  geom_point(aes(shape = group), size=3) +
   scale_shape_manual(values = c(16, 17, 19)) + theme_bw() + scale_color_grey() +
-  labs(x = "", y = "") + theme(legend.position = c(0.8, 0.2)) 
+  labs(x = "", y = "") + theme(legend.position = c(0.8, 0.2))
 
 # Word cloud, Comparison cloud, and other statistics
 library(wordcloud)
@@ -238,6 +239,7 @@ knitr::kable(terms(tmod4o), format="latex")
 # uses code found in https://rdrr.io/github/quanteda/quanteda.sentiment/f/vignettes/sentiment_analysis.Rmd
 # remotes::install_github("quanteda/quanteda.sentiment")
 # library(remotes)
+library(quanteda.sentiment)
 afinn <- read.delim(system.file("extdata/afinn/AFINN-111.txt", 
                                 package = "quanteda.sentiment"),
                     header = FALSE, col.names = c("word", "valence"))
@@ -252,7 +254,8 @@ gpt4val <- textstat_valence(gpt4tokens, data_dictionary_afinn)
 gpt4oval <- textstat_valence(gpt4otokens, data_dictionary_afinn)
 
 # Get summaries and create a line chart
-gptValDF <- data.frame(Doc=gpt4val$doc_id,GPT3=gpt3val$sentiment,GPT4=gpt4val$sentiment,GPT4o=gpt4oval$sentiment)
+gptValDF <- data.frame(gpt4val$doc_id,gpt3val$sentiment,gpt4val$sentiment,gpt4oval$sentiment)
+names(gptValDF) <- c("Document","GPT3.5","GPT4","GPT4o-mini")
 summary(gptValDF)
 #Doc                 GPT3              GPT4             GPT4o        
 #Length:16          Min.   :-1.5556   Min.   :-2.0000   Min.   :-0.7857  
@@ -274,7 +277,7 @@ quade_test(Valence~Version | Doc, data=gptValDFlong)
 library(viridis)
 library(hrbrthemes)
 labels <- c("Q1","Q2","Q3","Q4","Q5","Q6","Q7","Q8","Q9","Q10","Q11","Q12","Q13","Q14","Q15","Q16")
-gptValDFlong %>% ggplot( aes(x=Doc, y=Valence, group=Version, color=Version)) +
+gptValDFlong %>% ggplot( aes(x=Document, y=Valence, group=Version, color=Version)) +
   geom_line(size=1.5, aes(linetype=Version)) +
   scale_color_manual(values=c("#69b3a2", "purple", "black")) +
   ggtitle("Sentiment for Answers from GPT Version") +
