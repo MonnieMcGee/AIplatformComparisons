@@ -1,0 +1,11 @@
+"Vendor_Pair","N_model_pairs","Mean_similarity","Median_similarity","SD_similarity","Min_similarity","Max_similarity"
+"Anthropic–Anthropic",3,0.614,0.613,0.034,0.58,0.649
+"Anthropic–Google",9,0.533,0.549,0.067,0.417,0.612
+"Anthropic–OpenAI",18,0.511,0.524,0.055,0.399,0.587
+"OpenAI–OpenAI",15,0.511,0.541,0.09,0.366,0.671
+"Anthropic–xAI",9,0.493,0.485,0.081,0.402,0.609
+"Google–Google",3,0.491,0.485,0.082,0.412,0.576
+"Google–OpenAI",18,0.462,0.47,0.081,0.32,0.591
+"Google–xAI",9,0.454,0.452,0.106,0.304,0.651
+"OpenAI–xAI",18,0.45,0.433,0.082,0.32,0.647
+"xAI–xAI",3,0.414,0.411,0.018,0.397,0.433

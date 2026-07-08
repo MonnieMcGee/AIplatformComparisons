@@ -1,0 +1,678 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+{Arkansas Council of Teachers of Mathematics}%
+}{%
+{Arkansas Council of Teachers of Mathematics}%
+}{%
+{\protect \APACyear {2011}}%
+}]{%
+ACTMExam}
+\APACinsertmetastar {%
+ACTMExam}%
+\begin{APACrefauthors}%
+{Arkansas Council of Teachers of Mathematics}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+\APACrefbtitle {{Arkansas Council of Teachers of Mathematics Exam}.} {{Arkansas
+  Council of Teachers of Mathematics Exam}.}
+\newblock
+\APAChowpublished {\url{http://example.com}}.
+\newblock
+\APACrefnote{Accessed: February, 2024}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Benoit%
+\ \BBA {} Obeng%
+}{%
+Benoit%
+\ \BBA {} Obeng%
+}{%
+{\protect \APACyear {2023}}%
+}]{%
+readtext}
+\APACinsertmetastar {%
+readtext}%
+\begin{APACrefauthors}%
+Benoit, K.%
+\BCBT {}\ \BBA {} Obeng, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2023}{}{}.
+\newblock
+\APACrefbtitle {readtext: Import and Handling for Plain and Formatted Text
+  Files.} {readtext: Import and handling for plain and formatted text files.}
+\newblock
+\begin{APACrefURL} \url{https://CRAN.R-project.org/package=readtext}
+  \end{APACrefURL}
+\newblock
+\APACrefnote{R package version 0.90}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Benoit%
+\ \protect \BOthers {.}}{%
+Benoit%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2018}}%
+}]{%
+quanteda}
+\APACinsertmetastar {%
+quanteda}%
+\begin{APACrefauthors}%
+Benoit, K.%
+, Watanabe, K.%
+, Wang, H.%
+, Nulty, P.%
+, Obeng, A.%
+, M{\"u}ller, S.%
+\BCBL {}\ \BBA {} Matsuo, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {quanteda: An {R} package for the quantitative analysis
+  of textual data} {quanteda: An {R} package for the quantitative analysis of
+  textual data}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Open Source Software}{3}{30}{774}.
+\newblock
+\begin{APACrefURL} \url{https://quanteda.io} \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} 10.21105/joss.00774 \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Blei%
+, Ng%
+\BCBL {}\ \BBA {} Jordan%
+}{%
+Blei%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2003}}%
+}]{%
+blei2003}
+\APACinsertmetastar {%
+blei2003}%
+\begin{APACrefauthors}%
+Blei, D\BPBI M.%
+, Ng, A\BPBI Y.%
+\BCBL {}\ \BBA {} Jordan, M\BPBI I.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2003}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Latent Dirichlet Allocation} {Latent dirichlet
+  allocation}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Machine Learning Research}{3}{}{993--1022}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{College Board}%
+}{%
+{College Board}%
+}{%
+{\protect \APACyear {2011}}%
+}]{%
+cb2011}
+\APACinsertmetastar {%
+cb2011}%
+\begin{APACrefauthors}%
+{College Board}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+\APACrefbtitle {AP Statistics Exam.} {Ap statistics exam.}
+\newblock
+\APACaddressPublisher{New York, NY}{College Board}.
+\newblock
+\APACrefnote{Retrieved from https://apcentral.collegeboard.org/}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+delMas%
+, Garfield%
+, Ooms%
+\BCBL {}\ \BBA {} Chance%
+}{%
+delMas%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2007}}%
+}]{%
+caos}
+\APACinsertmetastar {%
+caos}%
+\begin{APACrefauthors}%
+delMas, R.%
+, Garfield, J.%
+, Ooms, A.%
+\BCBL {}\ \BBA {} Chance, B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{11}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Assessing students’ conceptual understanding after a
+  first course in statistics} {Assessing students’ conceptual understanding
+  after a first course in statistics}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Statistics Education Research Journal}{6}{}{28-58}.
+\newblock
+\begin{APACrefDOI} 10.52041/serj.v6i2.483 \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Ellis%
+\ \BBA {} Slade%
+}{%
+Ellis%
+\ \BBA {} Slade%
+}{%
+{\protect \APACyear {2023}}%
+}]{%
+ellis23}
+\APACinsertmetastar {%
+ellis23}%
+\begin{APACrefauthors}%
+Ellis, A\BPBI R.%
+\BCBT {}\ \BBA {} Slade, E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2023}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A New Era of Learning: Considerations for ChatGPT as a
+  Tool to Enhance Statistics and Data Science Education} {A new era of
+  learning: Considerations for chatgpt as a tool to enhance statistics and data
+  science education}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Statistics and Data Science
+  Education}{31}{2}{128--133}.
+\newblock
+\begin{APACrefURL} \url{https://doi.org/10.1080/26939169.2023.2223609}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} 10.1080/26939169.2023.2223609 \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Gupta%
+}{%
+Gupta%
+}{%
+{\protect \APACyear {2023}}%
+}]{%
+gupta}
+\APACinsertmetastar {%
+gupta}%
+\begin{APACrefauthors}%
+Gupta, V.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2023}{June}{}.
+\newblock
+\APACrefbtitle {Chat {GPT} 4 vs {GPT} 3.5: Comparative Analysis of Open{AI}
+  Tools.} {Chat {GPT} 4 vs {GPT} 3.5: Comparative analysis of open{AI} tools.}
+\newblock
+\APAChowpublished {Almabetter Website}.
+\newblock
+\APACrefnote{\url{https://www.almabetter.com/bytes/articles/chat-gpt-4-vs-gpt-3-5}}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Herklotz%
+, Ippisch%
+\BCBL {}\ \BBA {} Haensch%
+}{%
+Herklotz%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2025}}%
+}]{%
+herklotz2025trustllmstutorstudents}
+\APACinsertmetastar {%
+herklotz2025trustllmstutorstudents}%
+\begin{APACrefauthors}%
+Herklotz, M.%
+, Ippisch, N.%
+\BCBL {}\ \BBA {} Haensch, A\BHBI C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2025}{}{}.
+\newblock
+\APACrefbtitle {Can we trust LLMs as a tutor for our students? Evaluating the
+  Quality of LLM-generated Feedback in Statistics Exams.} {Can we trust llms as
+  a tutor for our students? evaluating the quality of llm-generated feedback in
+  statistics exams.}
+\newblock
+\begin{APACrefURL} \url{https://arxiv.org/abs/2511.04213} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Khan Academy}%
+}{%
+{Khan Academy}%
+}{%
+{\protect \APACyear {2024}}%
+}]{%
+KhanAcademy2024}
+\APACinsertmetastar {%
+KhanAcademy2024}%
+\begin{APACrefauthors}%
+{Khan Academy}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2024}{}{}.
+\newblock
+\APACrefbtitle {Four Stars for {KhanMigo}: Common Sense Media Rates {AI} Tools
+  for Learning.} {Four stars for {KhanMigo}: Common sense media rates {AI}
+  tools for learning.}
+\newblock
+\APAChowpublished
+  {\url{https://blog.khanacademy.org/four-stars-for-khanmigo-common-sense-media-rates-ai-tools-for-learning-kp/}}.
+\newblock
+\APACrefnote{Accessed: 2024-05-06}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Luk%
+, Ip%
+\BCBL {}\ \BBA {} fung Shea%
+}{%
+Luk%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2024}}%
+}]{%
+cma}
+\APACinsertmetastar {%
+cma}%
+\begin{APACrefauthors}%
+Luk, D\BPBI W\BPBI A.%
+, Ip, W\BPBI C\BPBI T.%
+\BCBL {}\ \BBA {} fung Shea, Y.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2024}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Performance of {GPT-4} and {GPT-3.5} in generating
+  accurate and comprehensive diagnoses across medical subspecialties}
+  {Performance of {GPT-4} and {GPT-3.5} in generating accurate and
+  comprehensive diagnoses across medical subspecialties}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of the Chinese Medical
+  Association}{87}{3}{259-260}.
+\newblock
+\begin{APACrefDOI} 10.1097/JCMA.0000000000001064 \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Manning%
+, Raghavan%
+\BCBL {}\ \BBA {} Sch{\"u}tze%
+}{%
+Manning%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2008}}%
+}]{%
+manning2008introduction}
+\APACinsertmetastar {%
+manning2008introduction}%
+\begin{APACrefauthors}%
+Manning, C\BPBI D.%
+, Raghavan, P.%
+\BCBL {}\ \BBA {} Sch{\"u}tze, H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2008}.
+\newblock
+\APACrefbtitle {Introduction to Information Retrieval} {Introduction to
+  information retrieval}.
+\newblock
+\APACaddressPublisher{Cambridge}{Cambridge University Press}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+McGee%
+\ \BBA {} Sadler%
+}{%
+McGee%
+\ \BBA {} Sadler%
+}{%
+{\protect \APACyear {2025}}%
+}]{%
+mcgeesadler2025}
+\APACinsertmetastar {%
+mcgeesadler2025}%
+\begin{APACrefauthors}%
+McGee, M.%
+\BCBT {}\ \BBA {} Sadler, B\BPBI P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2025}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Generative AI Takes a Statistics Exam: A Comparison of
+  Performance Between ChatGPT3.5, ChatGPT4, and ChatGPT4o-mini} {Generative ai
+  takes a statistics exam: A comparison of performance between chatgpt3.5,
+  chatgpt4, and chatgpt4o-mini}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Data Science}{23}{2}{269--286}.
+\newblock
+\begin{APACrefDOI} 10.6339/25-JDS1174 \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Nascimento%
+, Guimar{\~a}es%
+, Chintakunta%
+\BCBL {}\ \BBA {} Boominathan%
+}{%
+Nascimento%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2024}}%
+}]{%
+Nascimento2024LLM4DSEL}
+\APACinsertmetastar {%
+Nascimento2024LLM4DSEL}%
+\begin{APACrefauthors}%
+Nascimento, N.%
+, Guimar{\~a}es, E.%
+, Chintakunta, S\BPBI S.%
+\BCBL {}\ \BBA {} Boominathan, S\BPBI A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2024}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {LLM4DS: Evaluating Large Language Models for Data
+  Science Code Generation} {Llm4ds: Evaluating large language models for data
+  science code generation}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{ArXiv}{abs/2411.11908}{}{}.
+\newblock
+\begin{APACrefURL} \url{https://api.semanticscholar.org/CorpusID:274141792}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{R Core Team}%
+}{%
+{R Core Team}%
+}{%
+{\protect \APACyear {2023}}%
+}]{%
+rcore}
+\APACinsertmetastar {%
+rcore}%
+\begin{APACrefauthors}%
+{R Core Team}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2023}{Oct}{}.
+\newblock
+\APACrefbtitle {R: A language and environment for statistical computing.} {R: A
+  language and environment for statistical computing.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Roberts%
+, Stewart%
+\BCBL {}\ \BBA {} Tingley%
+}{%
+Roberts%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2019}}%
+}]{%
+roberts2019}
+\APACinsertmetastar {%
+roberts2019}%
+\begin{APACrefauthors}%
+Roberts, M\BPBI E.%
+, Stewart, B\BPBI M.%
+\BCBL {}\ \BBA {} Tingley, D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{stm}: An {R} Package for Structural Topic Models}
+  {{stm}: An {R} package for structural topic models}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Statistical Software}{91}{2}{1--40}.
+\newblock
+\begin{APACrefDOI} 10.18637/jss.v091.i02 \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Ruta%
+, Gaidici%
+, Irwin%
+\BCBL {}\ \BBA {} Lifshitz%
+}{%
+Ruta%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2025}}%
+}]{%
+ruta2025}
+\APACinsertmetastar {%
+ruta2025}%
+\begin{APACrefauthors}%
+Ruta, M\BPBI R.%
+, Gaidici, T.%
+, Irwin, C.%
+\BCBL {}\ \BBA {} Lifshitz, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2025}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {ChatGPT for Univariate Statistics: Validation of
+  {AI}-Assisted Data Analysis in Healthcare Research} {Chatgpt for univariate
+  statistics: Validation of {AI}-assisted data analysis in healthcare
+  research}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Medical Internet Research}{27}{}{e63550}.
+\newblock
+\begin{APACrefURL} \url{https://www.jmir.org/2025/1/e63550} \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} 10.2196/63550 \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Salton%
+\ \BBA {} Buckley%
+}{%
+Salton%
+\ \BBA {} Buckley%
+}{%
+{\protect \APACyear {1988}}%
+}]{%
+SALTON1988513}
+\APACinsertmetastar {%
+SALTON1988513}%
+\begin{APACrefauthors}%
+Salton, G.%
+\BCBT {}\ \BBA {} Buckley, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1988}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Term-weighting approaches in automatic text retrieval}
+  {Term-weighting approaches in automatic text retrieval}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Information Processing and Management}{24}{5}{513-523}.
+\newblock
+\begin{APACrefURL}
+  \url{https://www.sciencedirect.com/science/article/pii/0306457388900210}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} https://doi.org/10.1016/0306-4573(88)90021-0
+  \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Schwarz%
+}{%
+Schwarz%
+}{%
+{\protect \APACyear {2025}}%
+}]{%
+schwarz2025}
+\APACinsertmetastar {%
+schwarz2025}%
+\begin{APACrefauthors}%
+Schwarz, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2025}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The use of generative {AI} in statistical data analysis
+  and its impact on teaching statistics at universities of applied sciences}
+  {The use of generative {AI} in statistical data analysis and its impact on
+  teaching statistics at universities of applied sciences}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Teaching Statistics}{47}{2}{118-128}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Taloni%
+\ \protect \BOthers {.}}{%
+Taloni%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2023}}%
+}]{%
+taloni}
+\APACinsertmetastar {%
+taloni}%
+\begin{APACrefauthors}%
+Taloni, A.%
+, Borselli, M.%
+, Scarsi, V.%
+, Rossi, C.%
+, Scorcia, V.%
+\BCBL {}\ \BBA {} Giannaccare, G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2023}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Comparative performance of humans versus {GPT-4.0} and
+  {GPT-3.5} in the self-assessment program of {A}merican {A}cademy of
+  {O}phthalmology} {Comparative performance of humans versus {GPT-4.0} and
+  {GPT-3.5} in the self-assessment program of {A}merican {A}cademy of
+  {O}phthalmology}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Scientific Reports}{13}{18562}{}.
+\newblock
+\begin{APACrefDOI} 10.1038/s41598-023-45837-2 \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Weiss%
+}{%
+Weiss%
+}{%
+{\protect \APACyear {2023}}%
+}]{%
+chat4bar}
+\APACinsertmetastar {%
+chat4bar}%
+\begin{APACrefauthors}%
+Weiss, D\BPBI C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2023}{March}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Latest version of {ChatGPT} aces bar exam with score
+  nearing 90th percentile} {Latest version of {ChatGPT} aces bar exam with
+  score nearing 90th percentile}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{{ABA} Journal}{}{}{}.
+\newblock
+\begin{APACrefURL}
+  \url{https://www.abajournal.com/web/article/latest-version-of-chatgpt-aces-the-bar-exam-with-score-in-90th-percentile}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Williams%
+}{%
+Williams%
+}{%
+{\protect \APACyear {2024}}%
+}]{%
+williams2024}
+\APACinsertmetastar {%
+williams2024}%
+\begin{APACrefauthors}%
+Williams, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2024}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Comparison of generative {AI} performance on
+  undergraduate and postgraduate written assessments in the biomedical
+  sciences} {Comparison of generative {AI} performance on undergraduate and
+  postgraduate written assessments in the biomedical sciences}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{International Journal of Education and Technology in
+  Higher Education}{21}{52}{}.
+\newblock
+\begin{APACrefURL} \url{https://doi.org/10.1186/s41239-024-00485-y}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Yao%
+\ \protect \BOthers {.}}{%
+Yao%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2024}}%
+}]{%
+yao2024}
+\APACinsertmetastar {%
+yao2024}%
+\begin{APACrefauthors}%
+Yao, S.%
+, Yu, D.%
+, Zhao, J.%
+, Shafran, I.%
+, Griffiths, T\BPBI L.%
+, Cao, Y.%
+\BCBL {}\ \BBA {} Narasimhan, K.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2024}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Tree of thoughts: deliberate problem solving with large
+  language models} {Tree of thoughts: deliberate problem solving with large
+  language models}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the 37th International Conference on
+  Neural Information Processing Systems.} {Proceedings of the 37th
+  international conference on neural information processing systems.}
+\newblock
+\APACaddressPublisher{Red Hook, NY, USA}{Curran Associates Inc.}
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
