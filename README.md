@@ -5,8 +5,11 @@ Contains code and data sets for larger comparison with 15 models and 4 statistic
 
 **Subfolders**
 **Data** contains all of the answers for the 4 exams
+
 **Exams** contains the text of the exams
+
 **Code** contains the code and generated figures
+
 **Paper** contains Latex and PDF of the paper, plus figures included in the paper.
 
 ## JDS2025Paper
