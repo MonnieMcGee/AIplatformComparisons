@@ -4,6 +4,7 @@
 Contains code and data sets for larger comparison with 15 models and 4 statistics assessments. Uses accuracy measures, structural topic modeling, and lexical similarity for the comparison. 
 
 **Subfolders**
+
 **Data** contains all of the answers for the 4 exams
 
 **Exams** contains the text of the exams
