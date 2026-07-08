@@ -1,7 +1,18 @@
 # AIplatformComparisons
-Code and data sets for comparison of GPT3.5, GPT4, and GPT4o-mini for a graduate statistics exam
 
-Paper under revision for *Journal of Data Science*.
+## JSM2026 
+Contains code and data sets for larger comparison with 15 models and 4 statistics assessments. Uses accuracy measures, structural topic modeling, and lexical similarity for the comparison. 
+
+**Subfolders**
+**Data** contains all of the answers for the 4 exams
+**Exams** contains the text of the exams
+**Code** contains the code and generated figures
+**Paper** contains Latex and PDF of the paper, plus figures included in the paper.
+
+## JDS2025Paper
+Contains code and data sets for comparison of GPT3.5, GPT4, and GPT4o-mini for a graduate statistics exam
+
+Paper published in *Journal of Data Science* https://jds-online.org/journal/JDS/article/1429/info
 
 **Instructions for Running Code**
 1. Create a directory on your machine for the files from this project.
